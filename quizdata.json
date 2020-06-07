@@ -33,7 +33,7 @@
         "options": ["pesticides", "inorganic chemicals", "organic chemicals", "none"],
         "answer": 2
     },
-    {
+    
         "question": "6.In a solid cation P occupy (1/8)th of the tetrahedral voids and cation Q occupy (1/4)th of the octahedral voids, and oxide ions are arranged in cubic closed packed structure. The formula of the compound is ",
         "options": ["PQ2O3", "P2Q04", "PQO4", "PQ4O4"],
         "answer": 2
@@ -48,7 +48,7 @@
         "question": "Which of the following is not an antiseptic?",
         "options": ["Bithionol ", "0.2% solution of phenol", "Ranitidine", " Dilute aqueous solution of boric acid"],
         "answer": 2,
-        "description": " Dilute aqueous solution of boric acid"
+        "description": " Ranitidine is an antaacid"
     },
     {
         "question": "Which of the following is non-reducing sugar? ",
