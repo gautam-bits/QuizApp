@@ -3,57 +3,5 @@
         "options": ["Carbon", "Tin", "Lead", "Silicon"],
         "answer": 1,
         "description": " Sn has minimum first ionisation enthalpy =  708.58 kJ/mol ."
-    },
-    {
-        "question": "The oxidation states of S-atoms in Marshall’s acid and Caro’s acids are respectively ",
-        "options": ["+6, –6", "+6, +4", "+4, +6", "+6, +6"],
-        "answer": 3,
-        "description": "Marshall’s acid is H2S2O8 and Caro’s acid is H2SO5"
-    },
-    {
-        "question": "Which of the following compound does not decompose on heating? ",
-        "options": ["NaHCO3", "MgCo3", "Na2Co3", "Ca(HCO3)2"],
-        "answer": 2,
-        "description": "Na2CO3 does not decompose whereas NaHCO3, MgCO3 and Ca(HCO3)2 decompose on heating."
-    },
-    {
-        "question": "Find the P – O bonds are present in P4O6? ",
-        "options": ["12", "6", "3" , "16"],
-        "answer": 0,
-        "description": "P4O6 is tethradral with each edge as P-O-P bond"
-    },
-    {
-        "question": "When hydrogen peroxide is added to acidified potassium dichromate, a blue colour is produced due to the formation of",
-        "options": ["CrO4-", "Cr2O7(-2)", "Cr2O3", "CrO5"],
-        "answer": 3,
-        "description" : "K2Cr2O7 + H2SO4 + 4H2O2 --> 2CrO5 + K2SO4 + 5H2O"
-    },
-    {
-        "question": "If B.O.D. of a river is high, it means that the river is polluted by",
-        "options": ["pesticides", "inorganic chemicals", "organic chemicals", "none"],
-        "answer": 2
-    },
-    {
-        "question": "In a solid cation P occupy (1/8)th of the tetrahedral voids and cation Q occupy (1/4)th of the octahedral voids, and oxide ions are arranged in cubic closed packed structure. The formula of the compound is ",
-        "options": ["PQ2O3", "P2Q04", "PQO4", "PQ4O4"],
-        "answer": 2
-    },
-    {
-        "question": "Which of the following complex has lowest value ofmagnetic moment? ",
-        "options": ["[Cr(NH3)6]+3", "[Mn(CN)6]–4", "[CoF6]–3", "Ni(CO)4"],
-        "answer": 3,
-        "description": "[Ni(CO)4] Ni(O) = 3d84s2 sp3 (n = 0 unpaired electron)"
-    },
-    {
-        "question": "Which of the following is not an antiseptic?",
-        "options": ["Bithionol ", "0.2% solution of phenol", "Ranitidine", " Dilute aqueous solution of boric acid"],
-        "answer": 2,
-        "description": " Ranitidine is an antaacid "
-    },
-    {
-        "question": "Which of the following is non-reducing sugar? ",
-        "options": ["Glucose", "Sucrose", "Maltose", "Lactose"],
-        "answer": 1,
-        "description": " Glucose, maltose and lactose are reducing sugars because carbonyl group is present in hemiacetal form whereas sucrose is non-reducing sugar because in sucrose C-1 of glucose and C-2 of fructose are present in acetal form."
     }
 ]
